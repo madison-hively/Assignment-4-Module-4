@@ -17,4 +17,4 @@ uber-raw-data-aug14.csv.zip
 
 uber-raw-data-sep14.csv.zip
 
-Data-Analysis-R-Project-Uber-Pickup-Rides is the R markdown word document file for this project. 
+Data-Analysis-R-Project-Uber-Pickup-Rides is the R markdown word document file that contians the accompanying code and data visualizations used for this project. 
